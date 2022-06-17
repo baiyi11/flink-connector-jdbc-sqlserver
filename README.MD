@@ -7,7 +7,7 @@ The SQLServer SQL connector allows for reading data from and writing data into S
 
 2. Select the corresponding flink-connector-jdbc-sqlserver version and rename the flink-connector-jdbc.
 
-3. Coverage  ./flink/flink-connectors/flink-connector-jdbc file directory.
+3. Coverage  ./flink/flink-connectors/flink-connector-jdbc directory.
 
 4. Finally package.
 
